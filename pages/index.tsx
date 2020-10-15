@@ -30,6 +30,8 @@ const Index = () => {
         <Item href="/use-effect/2" label="useEffect(2)" />
         <Item href="/use-ref/1" label="useRef(1)" />
         <Item href="/use-ref/2" label="useRef(2)" />
+        <Item href="/array/map" label="Array.map" />
+        <Item href="/array/reduce" label="Array.reduce" />
       </ul>
     </div>
   )
